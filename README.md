@@ -1,4 +1,4 @@
-# Tweet-Surf-Engine
+# Multilingual Tweet Search Engine
 A complete search-based solution in Java for parsing and indexing of a corpus of Multilingual Tweets.
 
 # Features
